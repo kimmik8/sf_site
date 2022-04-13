@@ -1,0 +1,4 @@
+This is the second file on branch/2 
+
++++++++++++++++++++++++++++++++++++
+Adding new line
